@@ -6,7 +6,7 @@ This project or research deals with the use of Convolutional Neural Networks (CN
 # Deployment
 
 # Slide and Presentation
- * Link Presentation: here
+ * Link Presentation: [here](https://docs.google.com/presentation/d/1WznrZmrwgAyDxp6U92urM8pvI6jcSBKv/edit#slide=id.p10)
  * Link Video Presentation: here
  * Link Article: here
  
@@ -15,3 +15,5 @@ This dataset is a balanced dataset containing images of both benign and malignan
 
 # Reference
 * https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign?select=train
+* https://www.v7labs.com/blog/convolutional-neural-networks-guide
+* https://www.dicoding.com/academies/184/tutorials/8527
