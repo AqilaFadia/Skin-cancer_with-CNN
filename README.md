@@ -8,7 +8,7 @@ This project or research deals with the use of Convolutional Neural Networks (CN
 # Slide and Presentation
  * Link Presentation: [here](https://docs.google.com/presentation/d/1WznrZmrwgAyDxp6U92urM8pvI6jcSBKv/edit#slide=id.p10)
  * Link Video Presentation: here
- * Link Article: here
+ * Link Article: [here](https://medium.com/@aqilafadiamariana/classification-of-skin-cancer-model-using-tensorflow-19ff2c000087)
  
 # Data Understanding
 This dataset is a balanced dataset containing images of both benign and malignant cutaneous melanomas. The dataset is structured in two folders containing 1800 images each with a resolution of 224x244 pixels for both types of melanoma. The presence of this dataset has important value in supporting research and development in the field of medicine and computer science, especially in medical image recognition and diagnosis of skin diseases.
