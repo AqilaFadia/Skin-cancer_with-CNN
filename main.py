@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing import image
 
 st.title('Predict Skin Cancer Malignant and Benign')
 # Load the pre-trained model
-model = load_model('my_model.h5') 
+model = load_model('./model/my_model.h5') 
 
 uploaded = st.file_uploader("Upload an image", type=["jpeg", "jpg", "png"])
 
