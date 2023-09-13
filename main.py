@@ -33,3 +33,10 @@ if uploaded is not None:
         st.write('Prediction: Malignant')
     else:
         st.write('Prediction: Benign')
+# add article
+st.sidebar.title('More Article')
+st.sidebar.markdown(f"[Improving Employee Retention by Predicting Employee Attrition Using Machine Learning](https://medium.com/@aqilafadiamariana/improving-employee-retention-by-predicting-employee-attrition-using-machine-learning-f576bea204d8)")
+st.sidebar.markdown(f"[Investigate Hotel Business using Data Visualization](https://medium.com/@aqilafadiamariana/investigate-hotel-business-using-data-visualization-cef104723962)")
+st.sidebar.markdown(f"[Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning](https://medium.com/@aqilafadiamariana/predict-customer-personality-to-boost-marketing-campaign-by-using-machine-learning-79368c2dc87d)")
+st.sidebar.markdown(f"[Classification of Skin Cancer model using Tensorflow](https://medium.com/@aqilafadiamariana/classification-of-skin-cancer-model-using-tensorflow-19ff2c000087)")
+st.sidebar.markdown(f"[Predict Credit Scores by Enhancing Precision Function](https://medium.com/@aqilafadiamariana/predict-credit-scores-by-enhancing-precision-function-a0bb104528d)")
